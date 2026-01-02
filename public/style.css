@@ -1,0 +1,13 @@
+
+body{margin:0;font-family:Inter,Arial;background:#070b1f;color:#e8ecff}
+.container{max-width:720px;margin:auto;padding:16px}
+.card{background:#0f163a;border-radius:14px;padding:18px;margin-bottom:16px}
+.title{font-size:18px;font-weight:600}
+.sub{font-size:13px;opacity:.7}
+.result{font-size:72px;font-weight:700;text-align:center;color:#00ffd5}
+.timer{font-size:20px;font-weight:600;color:#00ffd5}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{padding:8px;text-align:center}
+th{color:#00ffd5}
+input,button{width:100%;padding:14px;border-radius:10px;border:none}
+button{background:#00ffd5;font-weight:600}
